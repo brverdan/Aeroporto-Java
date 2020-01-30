@@ -1,3 +1,3 @@
 # Aeroporto-Java
 
-Um pequeno modelo de aeroporto.
+Projeto de um pequeno modelo de aeroporto.
